@@ -50,5 +50,11 @@ This is useful too to remember how to set them up in a fresh dev environment.
 
 > Command `alias phpmyadminEnable="sudo a2enconf phpmyadmin.conf; sudo service apache2 restart"`
 
+# Coming soon
+
+  * Important Paths of Apache
+  * Important Paths of Apache
+  * How to install a LAMP server
+
 # Contributions and corrections
 If you want to contribute or correct some of the content in this list please feel free to do it in an always friendly and free way.
