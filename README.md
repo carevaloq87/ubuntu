@@ -50,6 +50,12 @@ This is useful too to remember how to set them up in a fresh dev environment.
 
 > Command `alias phpmyadminEnable="sudo a2enconf phpmyadmin.conf; sudo service apache2 restart"`
 
+## How to Create a Symbolic Link
+> Command `ln -s /opt/foo /usr/bin/bar`
+
+> Command `ln -s /opt/foo file_name`
+
+
 # Coming soon
 
   * Important Paths of Apache
